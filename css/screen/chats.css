@@ -134,7 +134,7 @@
 }
 .reply__column:last-child > i {
   right: 60px;
-  top: 5px;
+  top: 6px;
 }
 .reply__column button {
   background-color: var(--yellow);
