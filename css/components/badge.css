@@ -1,0 +1,25 @@
+.badge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.cog__dot {
+  background-color: tomato;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  position: absolute;
+  right: 15px;
+  top: 35px;
+  color: white;
+}
+.badge__last {}
